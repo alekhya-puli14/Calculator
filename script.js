@@ -180,10 +180,3 @@ document.addEventListener('keydown', (e) => {
     if (e.key === 'Backspace') calculator.delete();
 });
 
-
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/alekhya-puli14/Calculator.git
-// git push -u origin main
